@@ -1,5 +1,5 @@
 {
-    "name": "sirvelia-labs/plubo-jwt",
+    "name": "sirvelia/plubo-jwt",
     "description": "Create, verify and manage your JWTs easily.",
     "keywords": ["tokens", "jwt", "wordpress", "wp"],
     "homepage": "https://github.com/Sirvelia-Labs/plubo-jwt",
