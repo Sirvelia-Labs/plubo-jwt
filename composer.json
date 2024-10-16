@@ -1,0 +1,23 @@
+{
+    "name": "sirvelia-labs/plubo-jwt",
+    "description": "Create, verify and manage your JWTs easily.",
+    "keywords": ["tokens", "jwt", "wordpress", "wp"],
+    "homepage": "https://github.com/Sirvelia-Labs/plubo-jwt",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Albert Tarrés Ribalta",
+            "email": "albert@sirvelia.com",
+            "homepage": "https://sirvelia.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PluboJWT\\": "PluboJWT/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
